@@ -1,0 +1,9 @@
+signal,target,best_lag,min_p_value,significant_5pct
+opening_rate,closure_rate,2,0.0,True
+opening_rate,exit_rate,3,0.0,True
+entrant_rate,closure_rate,2,0.0065,True
+entrant_rate,exit_rate,6,0.0381,True
+net_entry_rate,closure_rate,6,0.1318,False
+net_entry_rate,exit_rate,6,0.0381,True
+open_close_ratio,closure_rate,3,0.0,True
+open_close_ratio,exit_rate,4,0.0,True
