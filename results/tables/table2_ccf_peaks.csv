@@ -1,0 +1,9 @@
+signal,target,peak_lag_months,peak_corr
+opening_rate,closure_rate,-2,0.382
+opening_rate,exit_rate,0,0.394
+entrant_rate,closure_rate,0,0.266
+entrant_rate,exit_rate,0,0.76
+net_entry_rate,closure_rate,0,-0.602
+net_entry_rate,exit_rate,0,-0.423
+open_close_ratio,closure_rate,0,-0.63
+open_close_ratio,exit_rate,4,0.272

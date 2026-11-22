@@ -1,0 +1,5 @@
+proxy,best_target,lead_lag_months,lead_corr,leadingness,signal_strength,predictive_value,freshness,composite_score,screen_decision
+open_close_ratio,exit_rate,4,0.272,0.67,0.54,1.0,1.0,0.803,ADOPT
+entrant_rate,exit_rate,1,-0.396,0.17,0.79,1.0,1.0,0.74,ADOPT
+opening_rate,closure_rate,1,-0.312,0.17,0.62,1.0,1.0,0.698,ADOPT
+net_entry_rate,closure_rate,4,0.205,0.67,0.41,0.4,1.0,0.619,ADOPT
